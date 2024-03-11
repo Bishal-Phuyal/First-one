@@ -1,1 +1,9 @@
 #include<stdio.h>
+int main ()
+{
+int a,b,add;
+printf ("enter 2 num to add :\t");
+scanf ("%d %d",&a,&b);
+add =a+b;
+printf ("the sum of %d and %d is: %d"a,b,add);
+}
